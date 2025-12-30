@@ -78,7 +78,7 @@ Overall, the findings illustrate why multifactor models dominate single-factor a
 ---
 
 ## Repository Structure
-- `01_factor_models_capm_ff.ipynb` — Main analysis notebook
+- `factor_models_capm_ff3_25_portfolios.ipynb` — Main analysis notebook
 - `README.md` — Project overview and results summary
 
 ---
