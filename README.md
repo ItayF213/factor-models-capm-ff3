@@ -80,6 +80,7 @@ Overall, the findings illustrate why multifactor models dominate single-factor a
 ## Repository Structure
 - `factor_models_capm_ff3_25_portfolios.ipynb` — Main analysis notebook
 - `README.md` — Project overview and results summary
+- `CAPM vs FF3 – 25 Size–Value Portfolios.pptx` — Presentation summarizing methodology, results, and key insights
 
 ---
 
